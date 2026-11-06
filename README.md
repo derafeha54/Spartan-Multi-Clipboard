@@ -1,0 +1,1 @@
+# Spartan-Multi-Clipboard
